@@ -1,5 +1,5 @@
 ### C ASSIGNMENT 
-#### ADITYA MISHRA B-78 590029219
+#### Omkareshwar Chaubey B-77 590025556
 ### Q1 — Report: Usage of 10 standard library functions:
 ### 1) `printf` — `stdio.h`
 
